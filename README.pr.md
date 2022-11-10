@@ -1,20 +1,20 @@
-# Dialog Window
+# Janela de diálogo
   
 Muestra una ventana de dialogo y almacena la opción en una variable  
 
 *Read this in other languages: [English](README.md), [Portugues](README.pr.md), [Español](README.es.md).*
 
-## How to install this module
+## Como instalar este módulo
   
-__Download__ and __install__ the content in 'modules' folder in Rocketbot path  
+__Baixe__ e __instale__ o conteúdo na pasta 'modules' no caminho do Rocketbot  
 
 
 
 ## Overview
 
 
-1. Confirmation Window  
-Display a confirmation window and store the result in a variable  
+1. Janela de Confirmação  
+Mostra uma janela de confirmação e armazena o resultado  
 
 
 
