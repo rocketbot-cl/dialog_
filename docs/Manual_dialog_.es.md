@@ -20,4 +20,4 @@ Muestra una ventana de confirmación y almacena el resultado
 | --- | --- | --- |
 |Ingrese el título de la ventana|Título que tendrá la ventana de confirmación|Prompt|
 |Ingrese el mensaje de la ventana|Mensaje que tendrá la ventana de confirmación|Enter text:|
-|Asignar resultado a variable||Variable|
+|Asignar resultado a variable|Ingrese el nombre de la variable donde se almacenará el resultado|Variable|

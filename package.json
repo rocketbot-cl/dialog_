@@ -96,6 +96,11 @@
                             "en": "Variable name without {}",
                             "pr": "Nome da variável sem {}"
                         },
+                        "description": {
+                            "es": "Ingrese el nombre de la variable donde se almacenará el resultado",
+                            "en": "Enter the name of the variable where the result will be stored",
+                            "pr": "Insira o nome da variável onde o resultado será armazenado"
+                        },
                         "id": "var_",
                         "css": "col-md-12"
                     }

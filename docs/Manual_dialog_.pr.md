@@ -20,4 +20,4 @@ Mostra uma janela de confirmação e armazena o resultado
 | --- | --- | --- |
 |Digite o título da janela|Título que terá a janela de confirmação|Prompt|
 |Digite a mensagem da janela|Mensagem que terá a janela de confirmação|Digite o texto:|
-|Atribuir resultado a uma variável||Variable|
+|Atribuir resultado a uma variável|Insira o nome da variável onde o resultado será armazenado|Variable|
